@@ -10,7 +10,7 @@
    1. 'javascript'
    -- 
 
-- It's project runs easly in any Website!
+- It's project runs easily in any Website!
 
 ## Screenshot:
 
