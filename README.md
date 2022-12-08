@@ -11,6 +11,9 @@
    -- 
 
 - It's project runs easily in any Website!
+- Try It for Free :D 
+- [Golden Calculator](https://golden-calculator.netlify.app/)
+
 
 ## Screenshot:
 
